@@ -249,10 +249,7 @@ def advanced_etf_analysis(info: dict) -> dict:
         rating = "無法評級"
         comments.append("\n【最終評級】資料不足，無法評級")
     
-    if "0050" in symbol:
-        comments.append("→ 追蹤台灣前 50 大權值股，大盤連動度高。")
-    elif "0056" in symbol:
-        comments.append("→ 高股息策略，殖利率偏高但股價波動與大盤略有差異。")
+
     
     final_advice = "ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
     comments.append(f"\n【綜合建議】{final_advice}")
