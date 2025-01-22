@@ -1,654 +1,887 @@
-﻿symbol,shortName,total_score,avg_score,rating,analysis_text
-2609.TW,YANG MING MARINE TRANSPORT CORP,90,9.0,A,"**[進階個股分析] 2609.TW / YANG MING MARINE TRANSPORT CORP**
-- PE: 4.67 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
-- PB: 0.72 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
+﻿symbol,shortName,fundamental_total_score,fundamental_avg_score,fundamental_rating,technical_total_score,technical_avg_score,technical_rating,analysis_text,overall_avg_score,overall_total_score,overall_rating
+2609.TW,YANG MING MARINE TRANSPORT CORP,90,9.0,A,33,6.6,B,"**[基本面分析] 2609.TW / YANG MING MARINE TRANSPORT CORP**
+- PE: 4.71 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
+- PB: 0.73 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
 - Beta: 資料缺失
-- ROE: 16.65% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.91% => 在 200 ~ 600 的合理範圍 (score=5)
+- ROE: 16.65% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.99% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
 - PEG: 資料缺失
-- OperatingMargin: 44.36% => 高於參考值(30.0)，值得肯定 (score=10)
+- OperatingMargin: 44.36% => 高於參考值(30.00%)，值得肯定 (score=10)
 - DebtToEquity: 10.37 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
 - CurrentRatio: 5.06 => 高於參考值(2)，值得肯定 (score=10)
 - QuickRatio: 4.57 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: 102.90% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 910.80% => 高於參考值(20.0)，值得肯定 (score=10)
+- RevenueGrowth: 102.90% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 910.80% => 高於參考值(20.00%)，值得肯定 (score=10)
 
-【最終評級】平均分數 9.0 → 等級 A"
-3533.TW,LOTES CO LTD,86,7.818181818181818,B,"**[進階個股分析] 3533.TW / LOTES CO LTD**
-- PE: 34.84 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 7.28 => 高於參考值(5)，需留意高估風險 (score=2)
+【基本面評級】平均分數 9.0 → 等級 A
+- RSI: 34.74（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 26.91（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",7.8,123,B
+3533.TW,LOTES CO LTD,86,7.818181818181818,B,35,7.0,B,"**[基本面分析] 3533.TW / LOTES CO LTD**
+- PE: 36.12 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 7.54 => 高於參考值(5)，需留意高估風險 (score=2)
 - Beta: 0.34 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 25.82% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 1.57% => 低於參考值(200) (score=2)
+- ROE: 25.82% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 1.57% => 低於參考值(200.00%) (score=2)
 - PEG: 資料缺失
-- OperatingMargin: 34.80% => 高於參考值(30.0)，值得肯定 (score=10)
+- OperatingMargin: 34.80% => 高於參考值(30.00%)，值得肯定 (score=10)
 - DebtToEquity: 7.62 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
 - CurrentRatio: 2.87 => 高於參考值(2)，值得肯定 (score=10)
 - QuickRatio: 2.58 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: 28.90% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 74.10% => 高於參考值(20.0)，值得肯定 (score=10)
+- RevenueGrowth: 28.90% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 74.10% => 高於參考值(20.00%)，值得肯定 (score=10)
 
-【最終評級】平均分數 7.8 → 等級 B"
-0056.TW,YUANTA SECURITIES INV TRUST CO ,46,7.666666666666667,B,"**[進階ETF分析] 0056.TW / YUANTA SECURITIES INV TRUST CO **
-- ETF_PE: 13.19 => 介於 10~25 的區間 (score=5)
-- ETF_Yield: 9.93% => 高於參考值(6)，表現不錯 (score=10)
-- totalAssets: 362,131,161,088 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 0.74 => 波動低於市場平均(0.8) (score=6)
-- threeYearAverageReturn: 11.72% => 高於參考值(0.1)，表現不錯 (score=10)
-- fiveYearAverageReturn: 12.18% => 高於參考值(0.1)，表現不錯 (score=10)
+【基本面評級】平均分數 7.8 → 等級 B
+- RSI: 55.30（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 22.29（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【最終評級】平均分數 7.7 → 等級 B
-→ 高股息策略，殖利率偏高但股價波動與大盤略有差異。
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00713.TW,YUANTA SECURITIES INV TRUST CO ,46,7.666666666666667,B,"**[進階ETF分析] 00713.TW / YUANTA SECURITIES INV TRUST CO **
-- ETF_PE: 16.53 => 介於 10~25 的區間 (score=5)
-- ETF_Yield: 9.97% => 高於參考值(6)，表現不錯 (score=10)
-- totalAssets: 117,195,898,880 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 0.52 => 波動低於市場平均(0.8) (score=6)
-- threeYearAverageReturn: 15.83% => 高於參考值(0.1)，表現不錯 (score=10)
-- fiveYearAverageReturn: 18.65% => 高於參考值(0.1)，表現不錯 (score=10)
-
-【最終評級】平均分數 7.7 → 等級 B
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00878.TW,CATHAY SECS INV TRUST CO LTD TA,36,7.2,B,"**[進階ETF分析] 00878.TW / CATHAY SECS INV TRUST CO LTD TA**
-- ETF_PE: 17.14 => 介於 10~25 的區間 (score=5)
-- ETF_Yield: 9.08% => 高於參考值(6)，表現不錯 (score=10)
-- totalAssets: 376,320,786,432 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 0.58 => 波動低於市場平均(0.8) (score=6)
-- threeYearAverageReturn: 12.22% => 高於參考值(0.1)，表現不錯 (score=10)
-- fiveYearAverageReturn: 資料缺失
-
-【最終評級】平均分數 7.2 → 等級 B
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-0050.TW,YUANTA SECURITIES INV TRUST CO ,43,7.166666666666667,B,"**[進階ETF分析] 0050.TW / YUANTA SECURITIES INV TRUST CO **
-- ETF_PE: 21.51 => 介於 10~25 的區間 (score=5)
+【技術面評級】平均分數 7.0 → 等級 B",7.409090909090909,121,B
+0050.TW,YUANTA SECURITIES INV TRUST CO ,43,7.166666666666667,B,36,7.2,B,"**[基本面分析] 0050.TW / YUANTA SECURITIES INV TRUST CO **
+- ETF_PE: 21.84 => 介於 10~25 的區間 (score=5)
 - ETF_Yield: 2.04% => 在 2~6 的區間 (score=5)
 - totalAssets: 435,205,963,776 => 在 100000000000.0~500000000000.0 的區間 (score=5)
 - ETF_Beta3Y: 1.07 => 在 0.8 ~ 1.2 的波動區間 (score=8)
-- threeYearAverageReturn: 12.67% => 高於參考值(0.1)，表現不錯 (score=10)
-- fiveYearAverageReturn: 18.94% => 高於參考值(0.1)，表現不錯 (score=10)
+- threeYearAverageReturn: 14.69% => 高於參考值(0.1)，表現不錯 (score=10)
+- fiveYearAverageReturn: 19.13% => 高於參考值(0.1)，表現不錯 (score=10)
 
-【最終評級】平均分數 7.2 → 等級 B
-→ 追蹤台灣前 50 大權值股，大盤連動度高。
+【基本面評級】平均分數 7.2 → 等級 B
+- RSI: 62.17（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 10.21（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-2887.TW,TAISHIN FINANCIAL HLDGS CO LTD,57,7.125,B,"**[進階個股分析] 2887.TW / TAISHIN FINANCIAL HLDGS CO LTD**
-- PE: 13.11 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.09 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.59 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 7.60% => 低於參考值(10.0) (score=2)
-- DividendYield: 3.51% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 41.39% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 資料缺失
-- CurrentRatio: 資料缺失
-- QuickRatio: 資料缺失
-- RevenueGrowth: 20.70% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 45.70% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 7.1 → 等級 B"
-2603.TW,EVERGREEN MARINE CORP(TAIWAN),77,7.0,B,"**[進階個股分析] 2603.TW / EVERGREEN MARINE CORP(TAIWAN)**
-- PE: 3.84 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
-- PB: 0.96 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
-- Beta: 1.54 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 15.61% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 4.53% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 29.86% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 32.45 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.87 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.73 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 57.80% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 478.50% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 7.0 → 等級 B"
-2618.TW,EVA AIRWAYS,70,7.0,B,"**[進階個股分析] 2618.TW / EVA AIRWAYS**
-- PE: 9.64 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
-- PB: 2.19 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 資料缺失
-- ROE: 24.06% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 3.78% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 21.49% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 38.02 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.14 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.07 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 7.30% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 50.80% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 7.0 → 等級 B"
-2330.TW,TAIWAN SEMICONDUCTOR MANUFACTUR,83,6.916666666666667,B,"**[進階個股分析] 2330.TW / TAIWAN SEMICONDUCTOR MANUFACTUR**
-- PE: 27.63 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 7.28 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 1.23 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 28.03% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 1.50% => 低於參考值(200) (score=2)
-- PEG: 1.16 => 介於 1 ~ 2 的區間 (score=5)
-- OperatingMargin: 47.49% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 24.08 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 2.57 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 2.24 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: 39.00% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 54.20% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 6.9 → 等級 B"
-2886.TW,MEGA FINANCIAL HOLDING CO,55,6.875,B,"**[進階個股分析] 2886.TW / MEGA FINANCIAL HOLDING CO**
-- PE: 16.06 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.67 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.48 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 10.55% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.75% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 51.29% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 資料缺失
-- CurrentRatio: 資料缺失
-- QuickRatio: 資料缺失
-- RevenueGrowth: 25.40% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 11.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 6.9 → 等級 B"
-2884.TW,E SUN FINANCIAL HOLDINGS,55,6.875,B,"**[進階個股分析] 2884.TW / E SUN FINANCIAL HOLDINGS**
-- PE: 16.60 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.86 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.52 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 10.41% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 4.49% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 44.85% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 資料缺失
-- CurrentRatio: 資料缺失
-- QuickRatio: 資料缺失
-- RevenueGrowth: 15.10% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 43.40% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 6.9 → 等級 B"
-3008.TW,LARGAN PRECISION CO,82,6.833333333333333,B,"**[進階個股分析] 3008.TW / LARGAN PRECISION CO**
-- PE: 16.76 => 介於 10 ~ 25 的區間 (score=5)
+【技術面評級】平均分數 7.2 → 等級 B",7.183333333333334,79,B
+3008.TW,LARGAN PRECISION CO,82,6.833333333333333,B,37,7.4,B,"**[基本面分析] 3008.TW / LARGAN PRECISION CO**
+- PE: 16.72 => 介於 10 ~ 25 的區間 (score=5)
 - PB: 2.11 => 介於 1 ~ 5 的區間 (score=5)
 - Beta: 0.84 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 13.27% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.97% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 64.10 => 高於參考值(2)，需留意高估風險 (score=2)
-- OperatingMargin: 41.17% => 高於參考值(30.0)，值得肯定 (score=10)
+- ROE: 13.27% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.93% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 64.92 => 高於參考值(2)，需留意高估風險 (score=2)
+- OperatingMargin: 41.17% => 高於參考值(30.00%)，值得肯定 (score=10)
 - DebtToEquity: 0.12 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
 - CurrentRatio: 4.80 => 高於參考值(2)，值得肯定 (score=10)
 - QuickRatio: 4.56 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: 39.00% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 11.40% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
+- RevenueGrowth: 39.00% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 11.40% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
 
-【最終評級】平均分數 6.8 → 等級 B"
-2881.TW,FUBON FINANCIAL HLDG CO LTD,75,6.818181818181818,B,"**[進階個股分析] 2881.TW / FUBON FINANCIAL HLDG CO LTD**
-- PE: 10.67 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.57 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.73 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 12.18% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.68% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 28.97% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 66.16 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 2.24 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 1.93 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 40.50% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 76.00% => 高於參考值(20.0)，值得肯定 (score=10)
+【基本面評級】平均分數 6.8 → 等級 B
+- RSI: 60.02（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 36.26（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
 
-【最終評級】平均分數 6.8 → 等級 B"
-2883.TW,KGI FINANCIAL HOLDING CO LTD,54,6.75,B,"**[進階個股分析] 2883.TW / KGI FINANCIAL HOLDING CO LTD**
-- PE: 9.44 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
-- PB: 1.15 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.68 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 9.50% => 低於參考值(10.0) (score=2)
-- DividendYield: 2.91% => 在 200 ~ 600 的合理範圍 (score=5)
+【技術面評級】平均分數 7.4 → 等級 B",7.116666666666667,119,B
+2330.TW,TAIWAN SEMICONDUCTOR MANUFACTUR,83,6.916666666666667,B,36,7.2,B,"**[基本面分析] 2330.TW / TAIWAN SEMICONDUCTOR MANUFACTUR**
+- PE: 28.00 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 7.38 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 1.23 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 28.03% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 1.50% => 低於參考值(200.00%) (score=2)
+- PEG: 1.16 => 介於 1 ~ 2 的區間 (score=5)
+- OperatingMargin: 47.49% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 24.08 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 2.57 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 2.24 => 高於參考值(2)，值得肯定 (score=10)
+- RevenueGrowth: 39.00% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 54.20% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.9 → 等級 B
+- RSI: 61.61（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 13.63（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.2 → 等級 B",7.058333333333334,119,B
+0056.TW,YUANTA SECURITIES INV TRUST CO ,46,7.666666666666667,B,32,6.4,B,"**[基本面分析] 0056.TW / YUANTA SECURITIES INV TRUST CO **
+- ETF_PE: 13.28 => 介於 10~25 的區間 (score=5)
+- ETF_Yield: 9.93% => 高於參考值(6)，表現不錯 (score=10)
+- totalAssets: 362,131,161,088 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 0.74 => 波動低於市場平均(0.8) (score=6)
+- threeYearAverageReturn: 12.46% => 高於參考值(0.1)，表現不錯 (score=10)
+- fiveYearAverageReturn: 12.34% => 高於參考值(0.1)，表現不錯 (score=10)
+
+【基本面評級】平均分數 7.7 → 等級 B
+- RSI: 52.44（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 18.02（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 6.4 → 等級 B",7.033333333333333,78,B
+00878.TW,CATHAY SECS INV TRUST CO LTD TA,36,7.2,B,34,6.8,B,"**[基本面分析] 00878.TW / CATHAY SECS INV TRUST CO LTD TA**
+- ETF_PE: 17.24 => 介於 10~25 的區間 (score=5)
+- ETF_Yield: 9.08% => 高於參考值(6)，表現不錯 (score=10)
+- totalAssets: 376,320,786,432 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 0.58 => 波動低於市場平均(0.8) (score=6)
+- threeYearAverageReturn: 13.04% => 高於參考值(0.1)，表現不錯 (score=10)
+- fiveYearAverageReturn: 資料缺失
+
+【基本面評級】平均分數 7.2 → 等級 B
+- RSI: 54.27（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 15.84（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",7.0,70,B
+006208.TW,FUBON ASSET MANAGEMENT CO LTD F,40,6.666666666666667,B,36,7.2,B,"**[基本面分析] 006208.TW / FUBON ASSET MANAGEMENT CO LTD F**
+- ETF_PE: 21.99 => 介於 10~25 的區間 (score=5)
+- ETF_Yield: 1.48% => 低於參考值(2) (score=2)
+- totalAssets: 185,936,510,976 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 1.08 => 在 0.8 ~ 1.2 的波動區間 (score=8)
+- threeYearAverageReturn: 15.48% => 高於參考值(0.1)，表現不錯 (score=10)
+- fiveYearAverageReturn: 19.70% => 高於參考值(0.1)，表現不錯 (score=10)
+
+【基本面評級】平均分數 6.7 → 等級 B
+- RSI: 63.38（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 10.72（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.2 → 等級 B",6.933333333333334,76,B
+2886.TW,MEGA FINANCIAL HOLDING CO,55,6.875,B,34,6.8,B,"**[基本面分析] 2886.TW / MEGA FINANCIAL HOLDING CO**
+- PE: 16.06 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.67 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.48 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 10.55% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.75% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
 - PEG: 資料缺失
-- OperatingMargin: 97.00% => 高於參考值(30.0)，值得肯定 (score=10)
+- OperatingMargin: 51.29% => 高於參考值(30.00%)，值得肯定 (score=10)
 - DebtToEquity: 資料缺失
 - CurrentRatio: 資料缺失
 - QuickRatio: 資料缺失
-- RevenueGrowth: -31.40% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: 31.60% => 高於參考值(20.0)，值得肯定 (score=10)
+- RevenueGrowth: 25.40% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 11.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
 
-【最終評級】平均分數 6.8 → 等級 B"
-3034.TW,NOVATEK MICROELECTRONICS,74,6.7272727272727275,B,"**[進階個股分析] 3034.TW / NOVATEK MICROELECTRONICS**
-- PE: 14.59 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 4.80 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 1.03 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 33.36% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 6.32% => 高於參考值(600)，值得肯定 (score=10)
+【基本面評級】平均分數 6.9 → 等級 B
+- RSI: 46.83（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 16.49（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",6.8375,89,B
+2884.TW,E SUN FINANCIAL HOLDINGS,55,6.875,B,34,6.8,B,"**[基本面分析] 2884.TW / E SUN FINANCIAL HOLDINGS**
+- PE: 16.75 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.88 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.52 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 10.41% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 4.49% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
 - PEG: 資料缺失
-- OperatingMargin: 22.40% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 0.74 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 3.42 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 2.94 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: -3.70% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -17.40% => 低於參考值(5.0) (score=2)
+- OperatingMargin: 44.85% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 資料缺失
+- CurrentRatio: 資料缺失
+- QuickRatio: 資料缺失
+- RevenueGrowth: 15.10% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 43.40% => 高於參考值(20.00%)，值得肯定 (score=10)
 
-【最終評級】平均分數 6.7 → 等級 B"
-00919.TW,CAPITAL INV TRUST CORP CAP TIP ,20,6.666666666666667,B,"**[進階ETF分析] 00919.TW / CAPITAL INV TRUST CORP CAP TIP **
-- ETF_PE: 10.78 => 介於 10~25 的區間 (score=5)
-- ETF_Yield: 12.02% => 高於參考值(6)，表現不錯 (score=10)
-- totalAssets: 305,116,086,272 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 資料缺失
-- threeYearAverageReturn: 資料缺失
-- fiveYearAverageReturn: 資料缺失
+【基本面評級】平均分數 6.9 → 等級 B
+- RSI: 58.40（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 13.28（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【最終評級】平均分數 6.7 → 等級 B
+【技術面評級】平均分數 6.8 → 等級 B",6.8375,89,B
+00713.TW,YUANTA SECURITIES INV TRUST CO ,46,7.666666666666667,B,30,6.0,B,"**[基本面分析] 00713.TW / YUANTA SECURITIES INV TRUST CO **
+- ETF_PE: 16.64 => 介於 10~25 的區間 (score=5)
+- ETF_Yield: 9.97% => 高於參考值(6)，表現不錯 (score=10)
+- totalAssets: 117,195,898,880 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 0.52 => 波動低於市場平均(0.8) (score=6)
+- threeYearAverageReturn: 16.22% => 高於參考值(0.1)，表現不錯 (score=10)
+- fiveYearAverageReturn: 18.58% => 高於參考值(0.1)，表現不錯 (score=10)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00929.TW,FUH HWA SECURITIES INVESTMENT T,20,6.666666666666667,B,"**[進階ETF分析] 00929.TW / FUH HWA SECURITIES INVESTMENT T**
-- ETF_PE: 16.28 => 介於 10~25 的區間 (score=5)
+【基本面評級】平均分數 7.7 → 等級 B
+- RSI: 52.95（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 16.99（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.0 → 等級 B",6.833333333333334,76,B
+2881.TW,FUBON FINANCIAL HLDG CO LTD,75,6.818181818181818,B,34,6.8,B,"**[基本面分析] 2881.TW / FUBON FINANCIAL HLDG CO LTD**
+- PE: 10.94 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.61 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.73 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 12.18% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.68% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 28.97% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 66.16 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 2.24 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 1.93 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 40.50% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 76.00% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.8 → 等級 B
+- RSI: 58.73（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 8.94（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",6.809090909090909,109,B
+2603.TW,EVERGREEN MARINE CORP(TAIWAN),77,7.0,B,33,6.6,B,"**[基本面分析] 2603.TW / EVERGREEN MARINE CORP(TAIWAN)**
+- PE: 3.93 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
+- PB: 0.98 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
+- Beta: 1.54 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 15.61% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 4.53% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 29.86% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 32.45 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.87 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.73 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 57.80% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 478.50% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 7.0 → 等級 B
+- RSI: 37.43（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 28.98（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",6.8,110,B
+2618.TW,EVA AIRWAYS,70,7.0,B,33,6.6,B,"**[基本面分析] 2618.TW / EVA AIRWAYS**
+- PE: 9.73 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
+- PB: 2.21 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 資料缺失
+- ROE: 24.06% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 3.84% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 21.49% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 38.02 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.14 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.07 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 7.30% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 50.80% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 7.0 → 等級 B
+- RSI: 60.12（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 27.48（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",6.8,103,B
+2883.TW,KGI FINANCIAL HOLDING CO LTD,54,6.75,B,34,6.8,B,"**[基本面分析] 2883.TW / KGI FINANCIAL HOLDING CO LTD**
+- PE: 9.66 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
+- PB: 1.18 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.68 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 9.50% => 低於參考值(10.00%) (score=2)
+- DividendYield: 2.91% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 97.00% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 資料缺失
+- CurrentRatio: 資料缺失
+- QuickRatio: 資料缺失
+- RevenueGrowth: -31.40% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: 31.60% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.8 → 等級 B
+- RSI: 50.82（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 18.44（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",6.775,88,B
+3661.TW,ALCHIP TECHNOLOGIES LIMITD,73,6.636363636363637,B,33,6.6,B,"**[基本面分析] 3661.TW / ALCHIP TECHNOLOGIES LIMITD**
+- PE: 44.22 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 7.09 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 1.25 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 21.68% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 0.72% => 低於參考值(200.00%) (score=2)
+- PEG: 資料缺失
+- OperatingMargin: 12.69% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 0.60 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 3.44 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 2.32 => 高於參考值(2)，值得肯定 (score=10)
+- RevenueGrowth: 94.80% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 101.80% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.6 → 等級 B
+- RSI: 56.55（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 24.33（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",6.618181818181818,106,B
+6669.TW,WIWYNN CORPORATION,66,6.6,B,33,6.6,B,"**[基本面分析] 6669.TW / WIWYNN CORPORATION**
+- PE: 21.24 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 5.16 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 資料缺失
+- ROE: 32.00% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 1.78% => 低於參考值(200.00%) (score=2)
+- PEG: 資料缺失
+- OperatingMargin: 8.08% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 37.62 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 2.34 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 1.30 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 85.20% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 142.00% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.6 → 等級 B
+- RSI: 37.84（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 25.21（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",6.6,99,B
+2382.TW,QUANTA COMPUTER,66,6.0,B,35,7.0,B,"**[基本面分析] 2382.TW / QUANTA COMPUTER**
+- PE: 19.31 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 5.58 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 0.61 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 27.95% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 2.86% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 4.91% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 74.62 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 1.23 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.81 => 低於參考值(1) (score=2)
+- RevenueGrowth: 26.50% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 49.40% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.0 → 等級 B
+- RSI: 40.37（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 24.56（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.5,101,B
+2880.TW,HUA NAN FINANCIAL HOLDINGS CO,47,5.875,B,35,7.0,B,"**[基本面分析] 2880.TW / HUA NAN FINANCIAL HOLDINGS CO**
+- PE: 17.18 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.86 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.45 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 11.19% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 4.59% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 46.64% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 資料缺失
+- CurrentRatio: 資料缺失
+- QuickRatio: 資料缺失
+- RevenueGrowth: 8.90% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 1.50% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 5.9 → 等級 B
+- RSI: 66.40（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 28.69（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.4375,82,B
+3653.TW,JENTECH PRECISION INDUSTRIAL CO,71,6.454545454545454,B,32,6.4,B,"**[基本面分析] 3653.TW / JENTECH PRECISION INDUSTRIAL CO**
+- PE: 69.67 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 16.99 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 0.41 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 22.93% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 0.65% => 低於參考值(200.00%) (score=2)
+- PEG: 資料缺失
+- OperatingMargin: 27.98% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 6.86 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 2.32 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 1.73 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 19.80% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 49.30% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.5 → 等級 B
+- RSI: 45.15（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 14.20（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",6.427272727272728,103,B
+2454.TW,MEDIATEK INC,69,5.75,B,35,7.0,B,"**[基本面分析] 2454.TW / MEDIATEK INC**
+- PE: 21.55 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 5.61 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 1.21 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 26.61% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 4.05% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 1.41 => 介於 1 ~ 2 的區間 (score=5)
+- OperatingMargin: 18.10% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 4.52 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.43 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.07 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 19.70% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 37.20% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 5.8 → 等級 B
+- RSI: 59.62（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 26.10（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.375,104,B
+2887.TW,TAISHIN FINANCIAL HLDGS CO LTD,57,7.125,B,28,5.6,B,"**[基本面分析] 2887.TW / TAISHIN FINANCIAL HLDGS CO LTD**
+- PE: 13.22 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.10 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.59 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 7.60% => 低於參考值(10.00%) (score=2)
+- DividendYield: 3.51% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 41.39% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 資料缺失
+- CurrentRatio: 資料缺失
+- QuickRatio: 資料缺失
+- RevenueGrowth: 20.70% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 45.70% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 7.1 → 等級 B
+- RSI: 49.74（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 10.67（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 5.6 → 等級 B",6.3625,85,B
+2379.TW,REALTEK SEMICONDUCTOR CORP,67,6.090909090909091,B,33,6.6,B,"**[基本面分析] 2379.TW / REALTEK SEMICONDUCTOR CORP**
+- PE: 20.07 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 5.80 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 0.97 => 介於 0.8 ~ 1.2 的區間 (score=5)
+- ROE: 31.11% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 2.87% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 12.70% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 20.61 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.36 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.14 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 15.30% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 70.10% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.1 → 等級 B
+- RSI: 56.79（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 22.09（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",6.345454545454546,100,B
+00929.TW,FUH HWA SECURITIES INVESTMENT T,20,6.666666666666667,B,30,6.0,B,"**[基本面分析] 00929.TW / FUH HWA SECURITIES INVESTMENT T**
+- ETF_PE: 16.37 => 介於 10~25 的區間 (score=5)
 - ETF_Yield: 9.98% => 高於參考值(6)，表現不錯 (score=10)
 - totalAssets: 235,808,325,632 => 在 100000000000.0~500000000000.0 的區間 (score=5)
 - ETF_Beta3Y: 資料缺失
 - threeYearAverageReturn: 資料缺失
 - fiveYearAverageReturn: 資料缺失
 
-【最終評級】平均分數 6.7 → 等級 B
+【基本面評級】平均分數 6.7 → 等級 B
+- RSI: 58.90（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 13.13（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-006208.TW,FUBON ASSET MANAGEMENT CO LTD F,40,6.666666666666667,B,"**[進階ETF分析] 006208.TW / FUBON ASSET MANAGEMENT CO LTD F**
-- ETF_PE: 21.65 => 介於 10~25 的區間 (score=5)
-- ETF_Yield: 1.48% => 低於參考值(2) (score=2)
-- totalAssets: 185,936,510,976 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 1.08 => 在 0.8 ~ 1.2 的波動區間 (score=8)
-- threeYearAverageReturn: 13.44% => 高於參考值(0.1)，表現不錯 (score=10)
-- fiveYearAverageReturn: 19.48% => 高於參考值(0.1)，表現不錯 (score=10)
-
-【最終評級】平均分數 6.7 → 等級 B
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-3661.TW,ALCHIP TECHNOLOGIES LIMITD,73,6.636363636363637,B,"**[進階個股分析] 3661.TW / ALCHIP TECHNOLOGIES LIMITD**
-- PE: 44.84 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 7.17 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 1.25 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 21.68% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 0.77% => 低於參考值(200) (score=2)
+【技術面評級】平均分數 6.0 → 等級 B",6.333333333333334,50,B
+3034.TW,NOVATEK MICROELECTRONICS,71,6.454545454545454,B,31,6.2,B,"**[基本面分析] 3034.TW / NOVATEK MICROELECTRONICS**
+- PE: 15.28 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 5.03 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 1.03 => 介於 0.8 ~ 1.2 的區間 (score=5)
+- ROE: 33.36% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 6.18% => 高於參考值(600.00%)，值得肯定 (score=10)
 - PEG: 資料缺失
-- OperatingMargin: 12.69% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 0.60 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 3.44 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 2.32 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: 94.80% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 101.80% => 高於參考值(20.0)，值得肯定 (score=10)
+- OperatingMargin: 22.40% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 0.74 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 3.42 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 2.94 => 高於參考值(2)，值得肯定 (score=10)
+- RevenueGrowth: -3.70% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -17.40% => 低於參考值(5.00%) (score=2)
 
-【最終評級】平均分數 6.6 → 等級 B"
-6669.TW,WIWYNN CORPORATION,66,6.6,B,"**[進階個股分析] 6669.TW / WIWYNN CORPORATION**
-- PE: 23.21 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 5.65 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 資料缺失
-- ROE: 32.00% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 1.74% => 低於參考值(200) (score=2)
-- PEG: 資料缺失
-- OperatingMargin: 8.08% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 37.62 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 2.34 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 1.30 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 85.20% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 142.00% => 高於參考值(20.0)，值得肯定 (score=10)
+【基本面評級】平均分數 6.5 → 等級 B
+- RSI: 64.44（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 20.18（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【最終評級】平均分數 6.6 → 等級 B"
-3653.TW,JENTECH PRECISION INDUSTRIAL CO,71,6.454545454545454,B,"**[進階個股分析] 3653.TW / JENTECH PRECISION INDUSTRIAL CO**
-- PE: 70.56 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 17.11 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 0.41 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 22.93% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 0.65% => 低於參考值(200) (score=2)
-- PEG: 資料缺失
-- OperatingMargin: 27.98% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 6.86 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 2.32 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 1.73 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 19.80% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 49.30% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 6.5 → 等級 B"
-1101.TW,TCC GROUP HOLDINGS CO LTD,69,6.2727272727272725,B,"**[進階個股分析] 1101.TW / TCC GROUP HOLDINGS CO LTD**
-- PE: 27.46 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 0.98 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
+【技術面評級】平均分數 6.2 → 等級 B",6.327272727272727,102,B
+2301.TW,LITE-ON TECHNOLOGY CORP,64,5.818181818181818,B,34,6.8,B,"**[基本面分析] 2301.TW / LITE-ON TECHNOLOGY CORP**
+- PE: 20.45 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 2.92 => 介於 1 ~ 5 的區間 (score=5)
 - Beta: 0.56 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 4.70% => 低於參考值(10.0) (score=2)
-- DividendYield: 3.15% => 在 200 ~ 600 的合理範圍 (score=5)
+- ROE: 14.47% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 6.08% => 高於參考值(600.00%)，值得肯定 (score=10)
 - PEG: 資料缺失
-- OperatingMargin: 15.27% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 68.49 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 1.99 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.64 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 52.10% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 151.90% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 6.3 → 等級 B"
-2615.TW,WAN HAI LINES,61,6.1,B,"**[進階個股分析] 2615.TW / WAN HAI LINES**
-- PE: 6.83 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
-- PB: 1.02 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 1.66 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 6.78% => 低於參考值(10.0) (score=2)
-- DividendYield: 1.67% => 低於參考值(200) (score=2)
-- PEG: 資料缺失
-- OperatingMargin: 28.21% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 35.88 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 3.35 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 1.80 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 56.00% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 資料缺失
-
-【最終評級】平均分數 6.1 → 等級 B"
-2379.TW,REALTEK SEMICONDUCTOR CORP,67,6.090909090909091,B,"**[進階個股分析] 2379.TW / REALTEK SEMICONDUCTOR CORP**
-- PE: 19.92 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 5.75 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 0.97 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 31.11% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 2.88% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 12.70% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 20.61 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.36 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.14 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 15.30% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 70.10% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 6.1 → 等級 B"
-2382.TW,QUANTA COMPUTER,66,6.0,B,"**[進階個股分析] 2382.TW / QUANTA COMPUTER**
-- PE: 19.13 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 5.53 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 0.61 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 27.95% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 2.86% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 4.91% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 74.62 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 1.23 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.81 => 低於參考值(1) (score=2)
-- RevenueGrowth: 26.50% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 49.40% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 6.0 → 等級 B"
-2303.TW,UNITED MICRO ELECTRONICS,72,6.0,B,"**[進階個股分析] 2303.TW / UNITED MICRO ELECTRONICS**
-- PE: 10.40 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.45 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 1.17 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 14.07% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 7.28% => 高於參考值(600)，值得肯定 (score=10)
-- PEG: 1.32 => 介於 1 ~ 2 的區間 (score=5)
-- OperatingMargin: 23.28% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 25.92 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 2.19 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 1.71 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 6.00% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: -9.40% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 6.0 → 等級 B"
-2327.TW,YAGEO CORP,72,6.0,B,"**[進階個股分析] 2327.TW / YAGEO CORP**
-- PE: 13.19 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.74 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 1.49 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 14.02% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.21% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 1.41 => 介於 1 ~ 2 的區間 (score=5)
-- OperatingMargin: 20.91% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 14.66 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 9.29 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 7.56 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: 15.90% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 16.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 6.0 → 等級 B"
-2880.TW,HUA NAN FINANCIAL HOLDINGS CO,47,5.875,B,"**[進階個股分析] 2880.TW / HUA NAN FINANCIAL HOLDINGS CO**
-- PE: 16.72 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.81 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.45 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 11.19% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 4.59% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 46.64% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 資料缺失
-- CurrentRatio: 資料缺失
-- QuickRatio: 資料缺失
-- RevenueGrowth: 8.90% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 1.50% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 5.9 → 等級 B"
-2890.TW,SINOPAC FINANCIAL HLDGS CO LTD,47,5.875,B,"**[進階個股分析] 2890.TW / SINOPAC FINANCIAL HLDGS CO LTD**
-- PE: 12.80 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.53 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.45 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 11.91% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.30% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 46.05% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 資料缺失
-- CurrentRatio: 資料缺失
-- QuickRatio: 資料缺失
-- RevenueGrowth: 15.00% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: -1.40% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 5.9 → 等級 B"
-2357.TW,ASUSTEK COMPUTER INC,64,5.818181818181818,B,"**[進階個股分析] 2357.TW / ASUSTEK COMPUTER INC**
-- PE: 13.52 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.70 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.51 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 13.33% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.83% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 7.01% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 9.38 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.59 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.89 => 低於參考值(1) (score=2)
-- RevenueGrowth: 23.30% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 12.70% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 5.8 → 等級 B"
-2301.TW,LITE-ON TECHNOLOGY CORP,64,5.818181818181818,B,"**[進階個股分析] 2301.TW / LITE-ON TECHNOLOGY CORP**
-- PE: 20.26 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 2.89 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.56 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 14.47% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 6.08% => 高於參考值(600)，值得肯定 (score=10)
-- PEG: 資料缺失
-- OperatingMargin: 10.67% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
+- OperatingMargin: 10.67% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
 - DebtToEquity: 42.07 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
 - CurrentRatio: 1.55 => 在 1 ~ 2 的合理範圍 (score=5)
 - QuickRatio: 1.27 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: -8.00% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -25.60% => 低於參考值(5.0) (score=2)
+- RevenueGrowth: -8.00% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -25.60% => 低於參考值(5.00%) (score=2)
 
-【最終評級】平均分數 5.8 → 等級 B"
-6505.TW,FORMOSA PETROCHEMICAL CORPORATI,58,5.8,B,"**[進階個股分析] 6505.TW / FORMOSA PETROCHEMICAL CORPORATI**
-- PE: 58.05 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 1.14 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.36 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 1.82% => 低於參考值(10.0) (score=2)
-- DividendYield: 5.30% => 在 200 ~ 600 的合理範圍 (score=5)
+【基本面評級】平均分數 5.8 → 等級 B
+- RSI: 63.61（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 18.21（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",6.309090909090909,98,B
+2615.TW,WAN HAI LINES,61,6.1,B,32,6.4,B,"**[基本面分析] 2615.TW / WAN HAI LINES**
+- PE: 6.96 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
+- PB: 1.04 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 1.66 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 6.78% => 低於參考值(10.00%) (score=2)
+- DividendYield: 1.67% => 低於參考值(200.00%) (score=2)
 - PEG: 資料缺失
-- OperatingMargin: -2.75% => 低於參考值(10.0) (score=2)
+- OperatingMargin: 28.21% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 35.88 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 3.35 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 1.80 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 56.00% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 資料缺失
+
+【基本面評級】平均分數 6.1 → 等級 B
+- RSI: 36.49（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 19.53（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",6.25,93,B
+1101.TW,TCC GROUP HOLDINGS CO LTD,69,6.2727272727272725,B,31,6.2,B,"**[基本面分析] 1101.TW / TCC GROUP HOLDINGS CO LTD**
+- PE: 27.46 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 0.98 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
+- Beta: 0.56 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 4.70% => 低於參考值(10.00%) (score=2)
+- DividendYield: 3.14% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 15.27% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 68.49 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 1.99 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.64 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 52.10% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 151.90% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 6.3 → 等級 B
+- RSI: 52.46（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 27.03（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.2 → 等級 B",6.236363636363636,100,B
+6505.TW,FORMOSA PETROCHEMICAL CORPORATI,58,5.8,B,33,6.6,B,"**[基本面分析] 6505.TW / FORMOSA PETROCHEMICAL CORPORATI**
+- PE: 57.27 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 1.13 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.36 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 1.82% => 低於參考值(10.00%) (score=2)
+- DividendYield: 5.49% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: -2.75% => 低於參考值(10.00%) (score=2)
 - DebtToEquity: 11.90 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
 - CurrentRatio: 4.73 => 高於參考值(2)，值得肯定 (score=10)
 - QuickRatio: 2.29 => 高於參考值(2)，值得肯定 (score=10)
-- RevenueGrowth: -10.10% => 低於參考值(5.0) (score=2)
+- RevenueGrowth: -10.10% => 低於參考值(5.00%) (score=2)
 - EarningsGrowth: 資料缺失
 
-【最終評級】平均分數 5.8 → 等級 B"
-2454.TW,MEDIATEK INC,69,5.75,B,"**[進階個股分析] 2454.TW / MEDIATEK INC**
-- PE: 21.27 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 5.53 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 1.21 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 26.61% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 4.15% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 1.37 => 介於 1 ~ 2 的區間 (score=5)
-- OperatingMargin: 18.10% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 4.52 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.43 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.07 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 19.70% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 37.20% => 高於參考值(20.0)，值得肯定 (score=10)
+【基本面評級】平均分數 5.8 → 等級 B
+- RSI: 50.44（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 32.34（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
 
-【最終評級】平均分數 5.8 → 等級 B"
-2345.TW,ACCTON TECHNOLOGY CORP,63,5.7272727272727275,B,"**[進階個股分析] 2345.TW / ACCTON TECHNOLOGY CORP**
-- PE: 42.49 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 14.12 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 0.40 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 37.22% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 1.36% => 低於參考值(200) (score=2)
-- PEG: 資料缺失
-- OperatingMargin: 12.28% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 9.23 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.53 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.95 => 低於參考值(1) (score=2)
-- RevenueGrowth: 25.70% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 11.10% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 5.7 → 等級 B"
-3017.TW,ASIA VITAL COMPONENTS CO LTD,63,5.7272727272727275,B,"**[進階個股分析] 3017.TW / ASIA VITAL COMPONENTS CO LTD**
-- PE: 29.78 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 9.83 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 0.67 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 30.23% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 1.02% => 低於參考值(200) (score=2)
-- PEG: 資料缺失
-- OperatingMargin: 14.72% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 47.25 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.45 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.85 => 低於參考值(1) (score=2)
-- RevenueGrowth: 10.80% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 62.10% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 5.7 → 等級 B"
-5880.TW,TAIWAN COOPERATIVE FINANCIAL HL,44,5.5,B,"**[進階個股分析] 5880.TW / TAIWAN COOPERATIVE FINANCIAL HL**
-- PE: 19.92 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.54 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.39 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 7.64% => 低於參考值(10.0) (score=2)
-- DividendYield: 2.59% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 46.31% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 資料缺失
-- CurrentRatio: 資料缺失
-- QuickRatio: 資料缺失
-- RevenueGrowth: 9.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 4.70% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 5.5 → 等級 B"
-2882.TW,CATHAY FINANCIAL HLDG CO,59,5.363636363636363,B,"**[進階個股分析] 2882.TW / CATHAY FINANCIAL HLDG CO**
-- PE: 10.69 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.24 => 介於 1 ~ 5 的區間 (score=5)
+【技術面評級】平均分數 6.6 → 等級 B",6.199999999999999,91,B
+2882.TW,CATHAY FINANCIAL HLDG CO,59,5.363636363636363,B,35,7.0,B,"**[基本面分析] 2882.TW / CATHAY FINANCIAL HLDG CO**
+- PE: 10.97 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.27 => 介於 1 ~ 5 的區間 (score=5)
 - Beta: 0.62 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 11.01% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.01% => 在 200 ~ 600 的合理範圍 (score=5)
+- ROE: 11.01% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.01% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
 - PEG: 資料缺失
-- OperatingMargin: 5.95% => 低於參考值(10.0) (score=2)
+- OperatingMargin: 5.95% => 低於參考值(10.00%) (score=2)
 - DebtToEquity: 77.16 => 介於 50 ~ 100 的區間 (score=5)
 - CurrentRatio: 1.06 => 在 1 ~ 2 的合理範圍 (score=5)
 - QuickRatio: 1.00 => 低於參考值(1) (score=2)
-- RevenueGrowth: 15.40% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 32.00% => 高於參考值(20.0)，值得肯定 (score=10)
+- RevenueGrowth: 15.40% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 32.00% => 高於參考值(20.00%)，值得肯定 (score=10)
 
-【最終評級】平均分數 5.4 → 等級 B"
-3231.TW,WISTRON CORPORATION,59,5.363636363636363,B,"**[進階個股分析] 3231.TW / WISTRON CORPORATION**
-- PE: 21.07 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 3.09 => 介於 1 ~ 5 的區間 (score=5)
+【基本面評級】平均分數 5.4 → 等級 B
+- RSI: 48.83（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 22.67（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.181818181818182,94,B
+3231.TW,WISTRON CORPORATION,59,5.363636363636363,B,35,7.0,B,"**[基本面分析] 3231.TW / WISTRON CORPORATION**
+- PE: 20.60 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 3.03 => 介於 1 ~ 5 的區間 (score=5)
 - Beta: 0.77 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 19.42% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.19% => 在 200 ~ 600 的合理範圍 (score=5)
+- ROE: 19.42% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.19% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
 - PEG: 資料缺失
-- OperatingMargin: 3.60% => 低於參考值(10.0) (score=2)
+- OperatingMargin: 3.60% => 低於參考值(10.00%) (score=2)
 - DebtToEquity: 86.75 => 介於 50 ~ 100 的區間 (score=5)
 - CurrentRatio: 1.25 => 在 1 ~ 2 的合理範圍 (score=5)
 - QuickRatio: 0.70 => 低於參考值(1) (score=2)
-- RevenueGrowth: 15.80% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 35.40% => 高於參考值(20.0)，值得肯定 (score=10)
+- RevenueGrowth: 15.80% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 35.40% => 高於參考值(20.00%)，值得肯定 (score=10)
 
-【最終評級】平均分數 5.4 → 等級 B"
-1301.TW,FORMOSA PLASTIC,48,5.333333333333333,B,"**[進階個股分析] 1301.TW / FORMOSA PLASTIC**
-- PE: 資料缺失
-- PB: 0.75 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
-- Beta: 0.51 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: -1.33% => 低於參考值(10.0) (score=2)
-- DividendYield: 2.69% => 在 200 ~ 600 的合理範圍 (score=5)
+【基本面評級】平均分數 5.4 → 等級 B
+- RSI: 54.80（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 20.73（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.181818181818182,94,B
+2345.TW,ACCTON TECHNOLOGY CORP,63,5.7272727272727275,B,33,6.6,B,"**[基本面分析] 2345.TW / ACCTON TECHNOLOGY CORP**
+- PE: 44.08 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 14.64 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 0.40 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 37.22% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 1.35% => 低於參考值(200.00%) (score=2)
 - PEG: 資料缺失
-- OperatingMargin: -2.98% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 49.36 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.19 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.78 => 低於參考值(1) (score=2)
-- RevenueGrowth: -0.50% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: 資料缺失
+- OperatingMargin: 12.28% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 9.23 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.53 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.95 => 低於參考值(1) (score=2)
+- RevenueGrowth: 25.70% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 11.10% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
 
-【最終評級】平均分數 5.3 → 等級 B"
-2891.TW,CTBC FINANCIAL HOLDINGS COMPANY,58,5.2727272727272725,B,"**[進階個股分析] 2891.TW / CTBC FINANCIAL HOLDINGS COMPANY**
-- PE: 11.62 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.74 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.66 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 14.51% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 4.77% => 在 200 ~ 600 的合理範圍 (score=5)
+【基本面評級】平均分數 5.7 → 等級 B
+- RSI: 58.14（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 39.31（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",6.163636363636364,96,B
+2890.TW,SINOPAC FINANCIAL HLDGS CO LTD,47,5.875,B,32,6.4,B,"**[基本面分析] 2890.TW / SINOPAC FINANCIAL HLDGS CO LTD**
+- PE: 12.82 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.53 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.45 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 11.91% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.30% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
 - PEG: 資料缺失
-- OperatingMargin: 32.65% => 高於參考值(30.0)，值得肯定 (score=10)
-- DebtToEquity: 108.46 => 高於參考值(100)，需留意高估風險 (score=2)
-- CurrentRatio: 0.31 => 低於參考值(1) (score=2)
-- QuickRatio: 0.22 => 低於參考值(1) (score=2)
-- RevenueGrowth: 22.40% => 高於參考值(20.0)，值得肯定 (score=10)
-- EarningsGrowth: 2.70% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 5.3 → 等級 B"
-2308.TW,DELTA ELECTRONIC,63,5.25,B,"**[進階個股分析] 2308.TW / DELTA ELECTRONIC**
-- PE: 30.11 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 5.07 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 1.07 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 17.09% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 1.52% => 低於參考值(200) (score=2)
-- PEG: 1.74 => 介於 1 ~ 2 的區間 (score=5)
-- OperatingMargin: 14.64% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 30.78 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 2.27 => 高於參考值(2)，值得肯定 (score=10)
-- QuickRatio: 1.63 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 4.10% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: 31.80% => 高於參考值(20.0)，值得肯定 (score=10)
-
-【最終評級】平均分數 5.2 → 等級 B"
-2317.TW,HON HAI PRECISION INDUSTRY,57,5.181818181818182,B,"**[進階個股分析] 2317.TW / HON HAI PRECISION INDUSTRY**
-- PE: 15.74 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.65 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.53 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 10.26% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.55% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 2.88% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 51.02 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 1.61 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.16 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 18.90% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 6.20% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 5.2 → 等級 B"
-2892.TW,FIRST FINANCIAL HOLDING CO LTD,41,5.125,B,"**[進階個股分析] 2892.TW / FIRST FINANCIAL HOLDING CO LTD**
-- PE: 16.05 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.56 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.41 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 9.40% => 低於參考值(10.0) (score=2)
-- DividendYield: 3.09% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 49.84% => 高於參考值(30.0)，值得肯定 (score=10)
+- OperatingMargin: 46.05% => 高於參考值(30.00%)，值得肯定 (score=10)
 - DebtToEquity: 資料缺失
 - CurrentRatio: 資料缺失
 - QuickRatio: 資料缺失
-- RevenueGrowth: 4.50% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: 2.80% => 低於參考值(5.0) (score=2)
+- RevenueGrowth: 15.00% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: -1.40% => 低於參考值(5.00%) (score=2)
 
-【最終評級】平均分數 5.1 → 等級 B"
-2395.TW,ADVANTECH CO LTD,60,5.0,B,"**[進階個股分析] 2395.TW / ADVANTECH CO LTD**
-- PE: 36.70 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 6.50 => 高於參考值(5)，需留意高估風險 (score=2)
+【基本面評級】平均分數 5.9 → 等級 B
+- RSI: 41.79（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 9.17（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",6.1375,79,B
+00919.TW,CAPITAL INV TRUST CORP CAP TIP ,20,6.666666666666667,B,28,5.6,B,"**[基本面分析] 00919.TW / CAPITAL INV TRUST CORP CAP TIP **
+- ETF_PE: 10.84 => 介於 10~25 的區間 (score=5)
+- ETF_Yield: 12.02% => 高於參考值(6)，表現不錯 (score=10)
+- totalAssets: 305,116,086,272 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 資料缺失
+- threeYearAverageReturn: 資料缺失
+- fiveYearAverageReturn: 資料缺失
+
+【基本面評級】平均分數 6.7 → 等級 B
+- RSI: 52.34（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 16.41（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 5.6 → 等級 B",6.133333333333333,48,B
+2357.TW,ASUSTEK COMPUTER INC,64,5.818181818181818,B,32,6.4,B,"**[基本面分析] 2357.TW / ASUSTEK COMPUTER INC**
+- PE: 13.46 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.69 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.51 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 13.33% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.84% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 7.01% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 9.38 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.59 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.89 => 低於參考值(1) (score=2)
+- RevenueGrowth: 23.30% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 12.70% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 5.8 → 等級 B
+- RSI: 48.24（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 17.70（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",6.109090909090909,96,B
+2303.TW,UNITED MICRO ELECTRONICS,77,6.416666666666667,B,29,5.8,B,"**[基本面分析] 2303.TW / UNITED MICRO ELECTRONICS**
+- PE: 9.78 => 明顯低於參考值(10)，對投資人相對有利 (score=10)
+- PB: 1.37 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 1.17 => 介於 0.8 ~ 1.2 的區間 (score=5)
+- ROE: 14.07% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 6.99% => 高於參考值(600.00%)，值得肯定 (score=10)
+- PEG: 1.38 => 介於 1 ~ 2 的區間 (score=5)
+- OperatingMargin: 23.28% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 25.92 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 2.19 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 1.71 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 6.00% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: -9.40% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 6.4 → 等級 B
+- RSI: 37.88（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 21.91（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 5.8 → 等級 B",6.108333333333333,106,B
+2317.TW,HON HAI PRECISION INDUSTRY,57,5.181818181818182,B,35,7.0,B,"**[基本面分析] 2317.TW / HON HAI PRECISION INDUSTRY**
+- PE: 15.90 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.67 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.53 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 10.26% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.55% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 2.88% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 51.02 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 1.61 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.16 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 18.90% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 6.20% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 5.2 → 等級 B
+- RSI: 46.44（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 29.48（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.090909090909091,92,B
+2308.TW,DELTA ELECTRONIC,63,5.25,B,34,6.8,B,"**[基本面分析] 2308.TW / DELTA ELECTRONIC**
+- PE: 30.81 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 5.20 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 1.07 => 介於 0.8 ~ 1.2 的區間 (score=5)
+- ROE: 17.09% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 1.53% => 低於參考值(200.00%) (score=2)
+- PEG: 1.73 => 介於 1 ~ 2 的區間 (score=5)
+- OperatingMargin: 14.64% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 30.78 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 2.27 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 1.63 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 4.10% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: 31.80% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 5.2 → 等級 B
+- RSI: 59.48（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 16.36（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",6.025,97,B
+2395.TW,ADVANTECH CO LTD,60,5.0,B,35,7.0,B,"**[基本面分析] 2395.TW / ADVANTECH CO LTD**
+- PE: 37.98 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 6.74 => 高於參考值(5)，需留意高估風險 (score=2)
 - Beta: 0.75 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 18.08% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 2.59% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 5.37 => 高於參考值(2)，需留意高估風險 (score=2)
-- OperatingMargin: 16.40% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
+- ROE: 18.08% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 2.57% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 5.39 => 高於參考值(2)，需留意高估風險 (score=2)
+- OperatingMargin: 16.40% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
 - DebtToEquity: 3.64 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
 - CurrentRatio: 2.76 => 高於參考值(2)，值得肯定 (score=10)
 - QuickRatio: 1.97 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: -0.40% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -12.60% => 低於參考值(5.0) (score=2)
+- RevenueGrowth: -0.40% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -12.60% => 低於參考值(5.00%) (score=2)
 
-【最終評級】平均分數 5.0 → 等級 B"
-00937B.TWO,CAPITAL INV TRUST CORP ICE ESG ,10,5.0,B,"**[進階ETF分析] 00937B.TWO / CAPITAL INV TRUST CORP ICE ESG **
+【基本面評級】平均分數 5.0 → 等級 B
+- RSI: 65.03（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 29.63（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 7.0 → 等級 B",6.0,95,B
+1301.TW,FORMOSA PLASTIC,48,5.333333333333333,B,33,6.6,B,"**[基本面分析] 1301.TW / FORMOSA PLASTIC**
+- PE: 資料缺失
+- PB: 0.73 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
+- Beta: 0.51 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: -1.33% => 低於參考值(10.00%) (score=2)
+- DividendYield: 2.78% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: -2.98% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 49.36 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.19 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.78 => 低於參考值(1) (score=2)
+- RevenueGrowth: -0.50% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: 資料缺失
+
+【基本面評級】平均分數 5.3 → 等級 B
+- RSI: 49.22（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 26.82（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 6.6 → 等級 B",5.966666666666667,81,B
+3017.TW,ASIA VITAL COMPONENTS CO LTD,63,5.7272727272727275,B,31,6.2,B,"**[基本面分析] 3017.TW / ASIA VITAL COMPONENTS CO LTD**
+- PE: 30.49 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 10.07 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 0.67 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 30.23% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 1.02% => 低於參考值(200.00%) (score=2)
+- PEG: 資料缺失
+- OperatingMargin: 14.72% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 47.25 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.45 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.85 => 低於參考值(1) (score=2)
+- RevenueGrowth: 10.80% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 62.10% => 高於參考值(20.00%)，值得肯定 (score=10)
+
+【基本面評級】平均分數 5.7 → 等級 B
+- RSI: 47.30（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 32.64（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.2 → 等級 B",5.963636363636364,94,B
+2892.TW,FIRST FINANCIAL HOLDING CO LTD,41,5.125,B,34,6.8,B,"**[基本面分析] 2892.TW / FIRST FINANCIAL HOLDING CO LTD**
+- PE: 16.13 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.57 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.41 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 9.40% => 低於參考值(10.00%) (score=2)
+- DividendYield: 3.09% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 49.84% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 資料缺失
+- CurrentRatio: 資料缺失
+- QuickRatio: 資料缺失
+- RevenueGrowth: 4.50% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: 2.80% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 5.1 → 等級 B
+- RSI: 54.08（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 11.68（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",5.9625,75,B
+00937B.TWO,CAPITAL INV TRUST CORP ICE ESG ,10,5.0,B,34,6.8,B,"**[基本面分析] 00937B.TWO / CAPITAL INV TRUST CORP ICE ESG **
 - ETF_PE: 資料缺失
 - ETF_Yield: 5.83% => 在 2~6 的區間 (score=5)
 - totalAssets: 251,198,652,416 => 在 100000000000.0~500000000000.0 的區間 (score=5)
@@ -656,311 +889,521 @@
 - threeYearAverageReturn: 資料缺失
 - fiveYearAverageReturn: 資料缺失
 
-【最終評級】平均分數 5.0 → 等級 B
+【基本面評級】平均分數 5.0 → 等級 B
+- RSI: 52.14（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 17.69（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00940.TW,YUANTA SECURITIES INV TRUST CO ,10,5.0,B,"**[進階ETF分析] 00940.TW / YUANTA SECURITIES INV TRUST CO **
-- ETF_PE: 11.85 => 介於 10~25 的區間 (score=5)
+【技術面評級】平均分數 6.8 → 等級 B",5.9,44,B
+00725B.TWO,CATHAY SECS INV TRUST CO LTD BB,23,4.6,C,36,7.2,B,"**[基本面分析] 00725B.TWO / CATHAY SECS INV TRUST CO LTD BB**
+- ETF_PE: 資料缺失
+- ETF_Yield: 6.87% => 高於參考值(6)，表現不錯 (score=10)
+- totalAssets: 126,726,905,856 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 1.70 => 波動高於市場平均(1.2)，風險也較高 (score=4)
+- threeYearAverageReturn: 1.11% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: 0.37% => 低於參考值(0.03) (score=2)
+
+【基本面評級】平均分數 4.6 → 等級 C
+- RSI: 52.65（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 14.19（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.2 → 等級 B",5.9,59,B
+1216.TW,UNI-PRESIDENT ENTERPRISES CORP,48,4.363636363636363,C,37,7.4,B,"**[基本面分析] 1216.TW / UNI-PRESIDENT ENTERPRISES CORP**
+- PE: 23.47 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 3.44 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.30 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 15.34% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.83% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 6.13% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 140.90 => 高於參考值(100)，需留意高估風險 (score=2)
+- CurrentRatio: 0.94 => 低於參考值(1) (score=2)
+- QuickRatio: 0.69 => 低於參考值(1) (score=2)
+- RevenueGrowth: 8.40% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 9.40% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 4.4 → 等級 C
+- RSI: 39.65（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 38.21（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 7.4 → 等級 B",5.881818181818182,85,B
+2891.TW,CTBC FINANCIAL HOLDINGS COMPANY,58,5.2727272727272725,B,32,6.4,B,"**[基本面分析] 2891.TW / CTBC FINANCIAL HOLDINGS COMPANY**
+- PE: 11.74 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.76 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.66 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 14.51% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 4.77% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 32.65% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 108.46 => 高於參考值(100)，需留意高估風險 (score=2)
+- CurrentRatio: 0.31 => 低於參考值(1) (score=2)
+- QuickRatio: 0.22 => 低於參考值(1) (score=2)
+- RevenueGrowth: 22.40% => 高於參考值(20.00%)，值得肯定 (score=10)
+- EarningsGrowth: 2.70% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 5.3 → 等級 B
+- RSI: 53.17（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 14.14（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",5.836363636363636,90,B
+2412.TW,CHUNGHWA TELECOM,53,4.818181818181818,C,34,6.8,B,"**[基本面分析] 2412.TW / CHUNGHWA TELECOM**
+- PE: 26.43 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 2.58 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.07 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 9.73% => 低於參考值(10.00%) (score=2)
+- DividendYield: 3.85% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 20.47% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 11.25 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.47 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.12 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 3.60% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -1.00% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.8 → 等級 C
+- RSI: 58.47（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 16.37（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",5.809090909090909,87,B
+2327.TW,YAGEO CORP,72,6.0,B,28,5.6,B,"**[基本面分析] 2327.TW / YAGEO CORP**
+- PE: 13.45 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.78 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 1.49 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 14.02% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.16% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 1.44 => 介於 1 ~ 2 的區間 (score=5)
+- OperatingMargin: 20.91% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 14.66 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 9.29 => 高於參考值(2)，值得肯定 (score=10)
+- QuickRatio: 7.56 => 高於參考值(2)，值得肯定 (score=10)
+- RevenueGrowth: 15.90% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 16.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 6.0 → 等級 B
+- RSI: 51.15（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 15.01（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 5.6 → 等級 B",5.8,100,B
+5880.TW,TAIWAN COOPERATIVE FINANCIAL HL,44,5.5,B,30,6.0,B,"**[基本面分析] 5880.TW / TAIWAN COOPERATIVE FINANCIAL HL**
+- PE: 20.00 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.55 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.39 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 7.64% => 低於參考值(10.00%) (score=2)
+- DividendYield: 2.59% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 46.31% => 高於參考值(30.00%)，值得肯定 (score=10)
+- DebtToEquity: 資料缺失
+- CurrentRatio: 資料缺失
+- QuickRatio: 資料缺失
+- RevenueGrowth: 9.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 4.70% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 5.5 → 等級 B
+- RSI: 46.05（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 14.41（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.0 → 等級 B",5.75,74,B
+1303.TW,NAN YA PLASTIC,52,4.7272727272727275,C,33,6.6,B,"**[基本面分析] 1303.TW / NAN YA PLASTIC**
+- PE: 80.87 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 0.73 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
+- Beta: 0.65 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 0.88% => 低於參考值(10.00%) (score=2)
+- DividendYield: 2.18% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 1.50% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 49.93 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.39 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.95 => 低於參考值(1) (score=2)
+- RevenueGrowth: -1.20% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -98.50% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.7 → 等級 C
+- RSI: 51.97（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 33.22（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 6.6 → 等級 B",5.663636363636364,85,B
+3045.TW,TAIWAN MOBILE CO,51,4.636363636363637,C,33,6.6,B,"**[基本面分析] 3045.TW / TAIWAN MOBILE CO**
+- PE: 23.61 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 3.92 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.12 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 19.48% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.79% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 10.37% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 114.48 => 高於參考值(100)，需留意高估風險 (score=2)
+- CurrentRatio: 0.46 => 低於參考值(1) (score=2)
+- QuickRatio: 0.38 => 低於參考值(1) (score=2)
+- RevenueGrowth: 9.60% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 6.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 4.6 → 等級 C
+- RSI: 40.30（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 23.66（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.6 → 等級 B",5.618181818181818,84,B
+4904.TW,FAR EASTONE TELECOMMUNICATIONS,51,4.636363636363637,C,32,6.4,B,"**[基本面分析] 4904.TW / FAR EASTONE TELECOMMUNICATIONS**
+- PE: 25.91 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 3.64 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.02 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 16.16% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.70% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 16.00% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 73.32 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 0.73 => 低於參考值(1) (score=2)
+- QuickRatio: 0.58 => 低於參考值(1) (score=2)
+- RevenueGrowth: 6.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: 11.70% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 4.6 → 等級 C
+- RSI: 46.13（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 12.65（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",5.5181818181818185,83,B
+3711.TW,ASE TECHNOLOGY HOLDING CO LTD,46,4.181818181818182,C,34,6.8,B,"**[基本面分析] 3711.TW / ASE TECHNOLOGY HOLDING CO LTD**
+- PE: 21.72 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 2.48 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 1.04 => 介於 0.8 ~ 1.2 的區間 (score=5)
+- ROE: 10.57% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.02% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 7.17% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 60.46 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 1.18 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.86 => 低於參考值(1) (score=2)
+- RevenueGrowth: 3.90% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: 10.10% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+
+【基本面評級】平均分數 4.2 → 等級 C
+- RSI: 66.04（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 17.29（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",5.49090909090909,80,B
+2885.TW,YUANTA FINANCIAL HOLDING CO. LT,48,4.363636363636363,C,32,6.4,B,"**[基本面分析] 2885.TW / YUANTA FINANCIAL HOLDING CO. LT**
+- PE: 14.91 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.56 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.72 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 10.43% => 在 10.00% ~ 20.00% 的合理範圍 (score=5)
+- DividendYield: 3.22% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 18.79% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 187.58 => 高於參考值(100)，需留意高估風險 (score=2)
+- CurrentRatio: 0.91 => 低於參考值(1) (score=2)
+- QuickRatio: 0.47 => 低於參考值(1) (score=2)
+- RevenueGrowth: 14.90% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: -8.40% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.4 → 等級 C
+- RSI: 50.50（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 13.11（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.4 → 等級 B",5.381818181818182,80,B
+4938.TW,PEGATRON CORPORATION,43,4.3,C,32,6.4,B,"**[基本面分析] 4938.TW / PEGATRON CORPORATION**
+- PE: 14.30 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 1.30 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 資料缺失
+- ROE: 9.12% => 低於參考值(10.00%) (score=2)
+- DividendYield: 4.20% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 1.24% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 24.29 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.36 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.08 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: -6.80% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -6.30% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.3 → 等級 C
+- RSI: 60.23（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 16.39（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 6.4 → 等級 B",5.35,75,B
+00751B.TWO,YUANTA SECURITIES CO.LTD US 20+,18,3.6,C,35,7.0,B,"**[基本面分析] 00751B.TWO / YUANTA SECURITIES CO.LTD US 20+**
+- ETF_PE: 資料缺失
+- ETF_Yield: 5.46% => 在 2~6 的區間 (score=5)
+- totalAssets: 156,781,625,344 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 1.90 => 波動高於市場平均(1.2)，風險也較高 (score=4)
+- threeYearAverageReturn: -2.51% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -2.34% => 低於參考值(0.03) (score=2)
+
+【基本面評級】平均分數 3.6 → 等級 C
+- RSI: 50.62（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 21.68（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 7.0 → 等級 B",5.3,53,B
+00940.TW,YUANTA SECURITIES INV TRUST CO ,10,5.0,B,28,5.6,B,"**[基本面分析] 00940.TW / YUANTA SECURITIES INV TRUST CO **
+- ETF_PE: 11.94 => 介於 10~25 的區間 (score=5)
 - ETF_Yield: 資料缺失
 - totalAssets: 155,052,556,288 => 在 100000000000.0~500000000000.0 的區間 (score=5)
 - ETF_Beta3Y: 資料缺失
 - threeYearAverageReturn: 資料缺失
 - fiveYearAverageReturn: 資料缺失
 
-【最終評級】平均分數 5.0 → 等級 B
+【基本面評級】平均分數 5.0 → 等級 B
+- RSI: 48.84（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 18.72（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-2412.TW,CHUNGHWA TELECOM,53,4.818181818181818,C,"**[進階個股分析] 2412.TW / CHUNGHWA TELECOM**
-- PE: 26.28 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 2.56 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.07 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 9.73% => 低於參考值(10.0) (score=2)
-- DividendYield: 3.84% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 20.47% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 11.25 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.47 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.12 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 3.60% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -1.00% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.8 → 等級 C"
-1303.TW,NAN YA PLASTIC,52,4.7272727272727275,C,"**[進階個股分析] 1303.TW / NAN YA PLASTIC**
-- PE: 80.87 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 0.73 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
-- Beta: 0.65 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 0.88% => 低於參考值(10.0) (score=2)
-- DividendYield: 2.12% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 1.50% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 49.93 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.39 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.95 => 低於參考值(1) (score=2)
-- RevenueGrowth: -1.20% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -98.50% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.7 → 等級 C"
-3045.TW,TAIWAN MOBILE CO,51,4.636363636363637,C,"**[進階個股分析] 3045.TW / TAIWAN MOBILE CO**
-- PE: 23.71 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 3.94 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.12 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 19.48% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.79% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 10.37% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 114.48 => 高於參考值(100)，需留意高估風險 (score=2)
-- CurrentRatio: 0.46 => 低於參考值(1) (score=2)
-- QuickRatio: 0.38 => 低於參考值(1) (score=2)
-- RevenueGrowth: 9.60% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 6.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 4.6 → 等級 C"
-4904.TW,FAR EASTONE TELECOMMUNICATIONS,51,4.636363636363637,C,"**[進階個股分析] 4904.TW / FAR EASTONE TELECOMMUNICATIONS**
-- PE: 25.82 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 3.62 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.02 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 16.16% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.65% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 16.00% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 73.32 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 0.73 => 低於參考值(1) (score=2)
-- QuickRatio: 0.58 => 低於參考值(1) (score=2)
-- RevenueGrowth: 6.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 11.70% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 4.6 → 等級 C"
-00725B.TWO,CATHAY SECS INV TRUST CO LTD BB,23,4.6,C,"**[進階ETF分析] 00725B.TWO / CATHAY SECS INV TRUST CO LTD BB**
-- ETF_PE: 資料缺失
-- ETF_Yield: 6.87% => 高於參考值(6)，表現不錯 (score=10)
-- totalAssets: 126,726,905,856 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 1.70 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: 1.11% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: 0.40% => 低於參考值(0.03) (score=2)
-
-【最終評級】平均分數 4.6 → 等級 C
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-1216.TW,UNI-PRESIDENT ENTERPRISES CORP,48,4.363636363636363,C,"**[進階個股分析] 1216.TW / UNI-PRESIDENT ENTERPRISES CORP**
-- PE: 23.29 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 3.41 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.30 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 15.34% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.82% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 6.13% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 140.90 => 高於參考值(100)，需留意高估風險 (score=2)
-- CurrentRatio: 0.94 => 低於參考值(1) (score=2)
-- QuickRatio: 0.69 => 低於參考值(1) (score=2)
-- RevenueGrowth: 8.40% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: 9.40% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 4.4 → 等級 C"
-2885.TW,YUANTA FINANCIAL HOLDING CO. LT,48,4.363636363636363,C,"**[進階個股分析] 2885.TW / YUANTA FINANCIAL HOLDING CO. LT**
-- PE: 14.76 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.54 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.72 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 10.43% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.22% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 18.79% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 187.58 => 高於參考值(100)，需留意高估風險 (score=2)
-- CurrentRatio: 0.91 => 低於參考值(1) (score=2)
-- QuickRatio: 0.47 => 低於參考值(1) (score=2)
-- RevenueGrowth: 14.90% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: -8.40% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.4 → 等級 C"
-2207.TW,HOTAI MOTOR CO,48,4.363636363636363,C,"**[進階個股分析] 2207.TW / HOTAI MOTOR CO**
-- PE: 16.34 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 4.62 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 0.90 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 23.52% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 3.34% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 14.04% => 在 10.0 ~ 30.0 的合理範圍 (score=5)
-- DebtToEquity: 300.09 => 高於參考值(100)，需留意高估風險 (score=2)
-- CurrentRatio: 1.03 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.94 => 低於參考值(1) (score=2)
-- RevenueGrowth: -4.60% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -32.50% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.4 → 等級 C"
-4938.TW,PEGATRON CORPORATION,43,4.3,C,"**[進階個股分析] 4938.TW / PEGATRON CORPORATION**
-- PE: 14.07 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 1.28 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 資料缺失
-- ROE: 9.12% => 低於參考值(10.0) (score=2)
-- DividendYield: 4.27% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 1.24% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 24.29 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.36 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.08 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: -6.80% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: -6.30% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.3 → 等級 C"
-2912.TW,PRESIDENT CHAIN STORE CORP,47,4.2727272727272725,C,"**[進階個股分析] 2912.TW / PRESIDENT CHAIN STORE CORP**
-- PE: 23.55 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 6.94 => 高於參考值(5)，需留意高估風險 (score=2)
-- Beta: 0.11 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 29.04% => 高於參考值(20.0)，值得肯定 (score=10)
-- DividendYield: 3.46% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 4.21% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 259.04 => 高於參考值(100)，需留意高估風險 (score=2)
-- CurrentRatio: 0.84 => 低於參考值(1) (score=2)
-- QuickRatio: 0.61 => 低於參考值(1) (score=2)
-- RevenueGrowth: 6.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: -1.70% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.3 → 等級 C"
-2002.TW,CHINA STEEL CORP,42,4.2,C,"**[進階個股分析] 2002.TW / CHINA STEEL CORP**
-- PE: 75.19 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 0.98 => 明顯低於參考值(1)，對投資人相對有利 (score=10)
-- Beta: 0.75 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
-- ROE: 1.64% => 低於參考值(10.0) (score=2)
-- DividendYield: 1.79% => 低於參考值(200) (score=2)
-- PEG: 資料缺失
-- OperatingMargin: -1.43% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 79.80 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 1.17 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.39 => 低於參考值(1) (score=2)
-- RevenueGrowth: -3.00% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: 資料缺失
-
-【最終評級】平均分數 4.2 → 等級 C"
-3711.TW,ASE TECHNOLOGY HOLDING CO LTD,46,4.181818181818182,C,"**[進階個股分析] 3711.TW / ASE TECHNOLOGY HOLDING CO LTD**
-- PE: 21.05 => 介於 10 ~ 25 的區間 (score=5)
-- PB: 2.41 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 1.04 => 介於 0.8 ~ 1.2 的區間 (score=5)
-- ROE: 10.57% => 在 10.0 ~ 20.0 的合理範圍 (score=5)
-- DividendYield: 3.13% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 7.17% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 60.46 => 介於 50 ~ 100 的區間 (score=5)
-- CurrentRatio: 1.18 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 0.86 => 低於參考值(1) (score=2)
-- RevenueGrowth: 3.90% => 低於參考值(5.0) (score=2)
-- EarningsGrowth: 10.10% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-
-【最終評級】平均分數 4.2 → 等級 C"
-3037.TW,UNIMICRON TECHNOLOGY,45,4.090909090909091,C,"**[進階個股分析] 3037.TW / UNIMICRON TECHNOLOGY**
-- PE: 27.38 => 高於參考值(25)，需留意高估風險 (score=2)
-- PB: 2.32 => 介於 1 ~ 5 的區間 (score=5)
-- Beta: 1.40 => 高於參考值(1.2)，需留意高估風險 (score=2)
-- ROE: 8.66% => 低於參考值(10.0) (score=2)
-- DividendYield: 2.11% => 在 200 ~ 600 的合理範圍 (score=5)
-- PEG: 資料缺失
-- OperatingMargin: 6.19% => 低於參考值(10.0) (score=2)
-- DebtToEquity: 41.51 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
-- CurrentRatio: 1.62 => 在 1 ~ 2 的合理範圍 (score=5)
-- QuickRatio: 1.28 => 在 1 ~ 2 的合理範圍 (score=5)
-- RevenueGrowth: 19.50% => 在 5.0 ~ 20.0 的合理範圍 (score=5)
-- EarningsGrowth: -61.50% => 低於參考值(5.0) (score=2)
-
-【最終評級】平均分數 4.1 → 等級 C"
-00679B.TWO,YUANTA SECURITIES INV TRUST CO ,18,3.6,C,"**[進階ETF分析] 00679B.TWO / YUANTA SECURITIES INV TRUST CO **
-- ETF_PE: 資料缺失
-- ETF_Yield: 4.69% => 在 2~6 的區間 (score=5)
-- totalAssets: 301,016,481,792 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 2.45 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -7.64% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -5.24% => 低於參考值(0.03) (score=2)
-
-【最終評級】平均分數 3.6 → 等級 C
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00687B.TWO,CATHAY SECS INV TRUST CO LTD BB,18,3.6,C,"**[進階ETF分析] 00687B.TWO / CATHAY SECS INV TRUST CO LTD BB**
-- ETF_PE: 資料缺失
-- ETF_Yield: 5.01% => 在 2~6 的區間 (score=5)
-- totalAssets: 249,987,956,736 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 2.50 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -7.06% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -5.00% => 低於參考值(0.03) (score=2)
-
-【最終評級】平均分數 3.6 → 等級 C
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00751B.TWO,YUANTA SECURITIES CO.LTD US 20+,18,3.6,C,"**[進階ETF分析] 00751B.TWO / YUANTA SECURITIES CO.LTD US 20+**
-- ETF_PE: 資料缺失
-- ETF_Yield: 5.46% => 在 2~6 的區間 (score=5)
-- totalAssets: 156,781,625,344 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 1.90 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -2.58% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -2.30% => 低於參考值(0.03) (score=2)
-
-【最終評級】平均分數 3.6 → 等級 C
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00720B.TWO,YUANTA SECURITIES INV TRUST CO ,18,3.6,C,"**[進階ETF分析] 00720B.TWO / YUANTA SECURITIES INV TRUST CO **
-- ETF_PE: 資料缺失
-- ETF_Yield: 5.75% => 在 2~6 的區間 (score=5)
-- totalAssets: 151,231,070,208 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 1.85 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -0.91% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -0.70% => 低於參考值(0.03) (score=2)
-
-【最終評級】平均分數 3.6 → 等級 C
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00772B.TWO,CTBC INVESTMENTS CO LTD CTBC BL,18,3.6,C,"**[進階ETF分析] 00772B.TWO / CTBC INVESTMENTS CO LTD CTBC BL**
-- ETF_PE: 資料缺失
-- ETF_Yield: 4.69% => 在 2~6 的區間 (score=5)
-- totalAssets: 125,960,372,224 => 在 100000000000.0~500000000000.0 的區間 (score=5)
-- ETF_Beta3Y: 1.77 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -1.33% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -1.57% => 低於參考值(0.03) (score=2)
-
-【最終評級】平均分數 3.6 → 等級 C
-
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00761B.TWO,CATHAY SECS INV TRUST CO LTD BB,18,3.6,C,"**[進階ETF分析] 00761B.TWO / CATHAY SECS INV TRUST CO LTD BB**
+【技術面評級】平均分數 5.6 → 等級 B",5.3,38,B
+00761B.TWO,CATHAY SECS INV TRUST CO LTD BB,18,3.6,C,35,7.0,B,"**[基本面分析] 00761B.TWO / CATHAY SECS INV TRUST CO LTD BB**
 - ETF_PE: 資料缺失
 - ETF_Yield: 5.35% => 在 2~6 的區間 (score=5)
 - totalAssets: 100,653,850,624 => 在 100000000000.0~500000000000.0 的區間 (score=5)
 - ETF_Beta3Y: 1.82 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -1.23% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -1.62% => 低於參考值(0.03) (score=2)
+- threeYearAverageReturn: -1.31% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -1.58% => 低於參考值(0.03) (score=2)
 
-【最終評級】平均分數 3.6 → 等級 C
+【基本面評級】平均分數 3.6 → 等級 C
+- RSI: 51.22（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 24.76（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00773B.TWO,CTBC INVESTMENTS CO LTD CTBC BL,14,3.5,C,"**[進階ETF分析] 00773B.TWO / CTBC INVESTMENTS CO LTD CTBC BL**
+【技術面評級】平均分數 7.0 → 等級 B",5.3,53,B
+00773B.TWO,CTBC INVESTMENTS CO LTD CTBC BL,14,3.5,C,35,7.0,B,"**[基本面分析] 00773B.TWO / CTBC INVESTMENTS CO LTD CTBC BL**
 - ETF_PE: 資料缺失
 - ETF_Yield: 4.64% => 在 2~6 的區間 (score=5)
 - totalAssets: 100,069,269,504 => 在 100000000000.0~500000000000.0 的區間 (score=5)
 - ETF_Beta3Y: 資料缺失
-- threeYearAverageReturn: -0.03% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -0.90% => 低於參考值(0.03) (score=2)
+- threeYearAverageReturn: -0.09% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -0.97% => 低於參考值(0.03) (score=2)
 
-【最終評級】平均分數 3.5 → 等級 C
+【基本面評級】平均分數 3.5 → 等級 C
+- RSI: 52.83（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 21.13（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00746B.TWO,FUBON SECURITIES INVSTMT TRUST ,15,3.0,C,"**[進階ETF分析] 00746B.TWO / FUBON SECURITIES INVSTMT TRUST **
+【技術面評級】平均分數 7.0 → 等級 B",5.25,49,B
+2912.TW,PRESIDENT CHAIN STORE CORP,47,4.2727272727272725,C,31,6.2,B,"**[基本面分析] 2912.TW / PRESIDENT CHAIN STORE CORP**
+- PE: 23.55 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 6.95 => 高於參考值(5)，需留意高估風險 (score=2)
+- Beta: 0.11 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 29.04% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 3.45% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 4.21% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 259.04 => 高於參考值(100)，需留意高估風險 (score=2)
+- CurrentRatio: 0.84 => 低於參考值(1) (score=2)
+- QuickRatio: 0.61 => 低於參考值(1) (score=2)
+- RevenueGrowth: 6.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: -1.70% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.3 → 等級 C
+- RSI: 41.18（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 23.30（趨勢中等） (score=6)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.2 → 等級 B",5.236363636363636,78,B
+00720B.TWO,YUANTA SECURITIES INV TRUST CO ,18,3.6,C,34,6.8,B,"**[基本面分析] 00720B.TWO / YUANTA SECURITIES INV TRUST CO **
+- ETF_PE: 資料缺失
+- ETF_Yield: 5.75% => 在 2~6 的區間 (score=5)
+- totalAssets: 151,231,070,208 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 1.85 => 波動高於市場平均(1.2)，風險也較高 (score=4)
+- threeYearAverageReturn: -0.57% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -0.71% => 低於參考值(0.03) (score=2)
+
+【基本面評級】平均分數 3.6 → 等級 C
+- RSI: 52.56（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 16.44（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",5.2,52,B
+00772B.TWO,CTBC INVESTMENTS CO LTD CTBC BL,18,3.6,C,34,6.8,B,"**[基本面分析] 00772B.TWO / CTBC INVESTMENTS CO LTD CTBC BL**
+- ETF_PE: 資料缺失
+- ETF_Yield: 4.69% => 在 2~6 的區間 (score=5)
+- totalAssets: 125,960,372,224 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 1.77 => 波動高於市場平均(1.2)，風險也較高 (score=4)
+- threeYearAverageReturn: -1.29% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -1.66% => 低於參考值(0.03) (score=2)
+
+【基本面評級】平均分數 3.6 → 等級 C
+- RSI: 51.03（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 18.84（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.8 → 等級 B",5.2,52,B
+2207.TW,HOTAI MOTOR CO,48,4.363636363636363,C,30,6.0,B,"**[基本面分析] 2207.TW / HOTAI MOTOR CO**
+- PE: 16.67 => 介於 10 ~ 25 的區間 (score=5)
+- PB: 4.71 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.90 => 介於 0.8 ~ 1.2 的區間 (score=5)
+- ROE: 23.52% => 高於參考值(20.00%)，值得肯定 (score=10)
+- DividendYield: 3.29% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 14.04% => 在 10.00% ~ 30.00% 的合理範圍 (score=5)
+- DebtToEquity: 300.09 => 高於參考值(100)，需留意高估風險 (score=2)
+- CurrentRatio: 1.03 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.94 => 低於參考值(1) (score=2)
+- RevenueGrowth: -4.60% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: -32.50% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.4 → 等級 C
+- RSI: 52.32（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 14.61（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.0 → 等級 B",5.181818181818182,78,B
+2002.TW,CHINA STEEL CORP,37,3.7,C,33,6.6,B,"**[基本面分析] 2002.TW / CHINA STEEL CORP**
+- PE: 77.50 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 1.01 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 0.75 => 明顯低於參考值(0.8)，對投資人相對有利 (score=10)
+- ROE: 1.64% => 低於參考值(10.00%) (score=2)
+- DividendYield: 1.74% => 低於參考值(200.00%) (score=2)
+- PEG: 資料缺失
+- OperatingMargin: -1.43% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 79.80 => 介於 50 ~ 100 的區間 (score=5)
+- CurrentRatio: 1.17 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 0.39 => 低於參考值(1) (score=2)
+- RevenueGrowth: -3.00% => 低於參考值(5.00%) (score=2)
+- EarningsGrowth: 資料缺失
+
+【基本面評級】平均分數 3.7 → 等級 C
+- RSI: 58.67（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 36.46（趨勢中等） (score=6)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
+
+【技術面評級】平均分數 6.6 → 等級 B",5.15,70,B
+00746B.TWO,FUBON SECURITIES INVSTMT TRUST ,15,3.0,C,36,7.2,B,"**[基本面分析] 00746B.TWO / FUBON SECURITIES INVSTMT TRUST **
 - ETF_PE: 資料缺失
 - ETF_Yield: 4.48% => 在 2~6 的區間 (score=5)
 - totalAssets: 87,203,651,584 => 低於參考值(100000000000.0) (score=2)
 - ETF_Beta3Y: 1.67 => 波動高於市場平均(1.2)，風險也較高 (score=4)
-- threeYearAverageReturn: -0.10% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -0.70% => 低於參考值(0.03) (score=2)
+- threeYearAverageReturn: -0.15% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -0.74% => 低於參考值(0.03) (score=2)
 
-【最終評級】平均分數 3.0 → 等級 C
+【基本面評級】平均分數 3.0 → 等級 C
+- RSI: 51.45（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 17.39（趨勢弱） (score=5)
+- 成交量趨勢: 增加中（趨勢確認） (score=7)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00724B.TWO,CAPITAL INV TRUST CORP CAP IND ,11,2.75,D,"**[進階ETF分析] 00724B.TWO / CAPITAL INV TRUST CORP CAP IND **
+【技術面評級】平均分數 7.2 → 等級 B",5.1,51,B
+3037.TW,UNIMICRON TECHNOLOGY,45,4.090909090909091,C,28,5.6,B,"**[基本面分析] 3037.TW / UNIMICRON TECHNOLOGY**
+- PE: 26.94 => 高於參考值(25)，需留意高估風險 (score=2)
+- PB: 2.28 => 介於 1 ~ 5 的區間 (score=5)
+- Beta: 1.40 => 高於參考值(1.2)，需留意高估風險 (score=2)
+- ROE: 8.66% => 低於參考值(10.00%) (score=2)
+- DividendYield: 2.15% => 在 200.00% ~ 600.00% 的合理範圍 (score=5)
+- PEG: 資料缺失
+- OperatingMargin: 6.19% => 低於參考值(10.00%) (score=2)
+- DebtToEquity: 41.51 => 明顯低於參考值(50)，對投資人相對有利 (score=10)
+- CurrentRatio: 1.62 => 在 1 ~ 2 的合理範圍 (score=5)
+- QuickRatio: 1.28 => 在 1 ~ 2 的合理範圍 (score=5)
+- RevenueGrowth: 19.50% => 在 5.00% ~ 20.00% 的合理範圍 (score=5)
+- EarningsGrowth: -61.50% => 低於參考值(5.00%) (score=2)
+
+【基本面評級】平均分數 4.1 → 等級 C
+- RSI: 39.64（正常範圍） (score=7)
+- MACD: 負值（賣出信號） (score=6)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 17.00（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 5.6 → 等級 B",4.845454545454546,73,C
+00679B.TWO,YUANTA SECURITIES INV TRUST CO ,18,3.6,C,30,6.0,B,"**[基本面分析] 00679B.TWO / YUANTA SECURITIES INV TRUST CO **
+- ETF_PE: 資料缺失
+- ETF_Yield: 4.69% => 在 2~6 的區間 (score=5)
+- totalAssets: 301,016,481,792 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 2.45 => 波動高於市場平均(1.2)，風險也較高 (score=4)
+- threeYearAverageReturn: -7.74% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -5.14% => 低於參考值(0.03) (score=2)
+
+【基本面評級】平均分數 3.6 → 等級 C
+- RSI: 49.10（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 19.51（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.0 → 等級 B",4.8,48,C
+00687B.TWO,CATHAY SECS INV TRUST CO LTD BB,18,3.6,C,30,6.0,B,"**[基本面分析] 00687B.TWO / CATHAY SECS INV TRUST CO LTD BB**
+- ETF_PE: 資料缺失
+- ETF_Yield: 5.01% => 在 2~6 的區間 (score=5)
+- totalAssets: 249,987,956,736 => 在 100000000000.0~500000000000.0 的區間 (score=5)
+- ETF_Beta3Y: 2.50 => 波動高於市場平均(1.2)，風險也較高 (score=4)
+- threeYearAverageReturn: -7.26% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -4.92% => 低於參考值(0.03) (score=2)
+
+【基本面評級】平均分數 3.6 → 等級 C
+- RSI: 49.04（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 < SMA200（死亡交叉，趨勢向下） (score=5)
+- ADX: 19.46（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
+
+【技術面評級】平均分數 6.0 → 等級 B",4.8,48,C
+00724B.TWO,CAPITAL INV TRUST CORP CAP IND ,11,2.75,D,34,6.8,B,"**[基本面分析] 00724B.TWO / CAPITAL INV TRUST CORP CAP IND **
 - ETF_PE: 資料缺失
 - ETF_Yield: 5.17% => 在 2~6 的區間 (score=5)
 - totalAssets: 99,761,733,632 => 低於參考值(100000000000.0) (score=2)
 - ETF_Beta3Y: 資料缺失
-- threeYearAverageReturn: 0.63% => 低於參考值(0.03) (score=2)
-- fiveYearAverageReturn: -0.33% => 低於參考值(0.03) (score=2)
+- threeYearAverageReturn: 0.59% => 低於參考值(0.03) (score=2)
+- fiveYearAverageReturn: -0.38% => 低於參考值(0.03) (score=2)
 
-【最終評級】平均分數 2.8 → 等級 D
+【基本面評級】平均分數 2.8 → 等級 D
+- RSI: 43.28（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 17.52（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
-00933B.TWO,CATHAY SECS INV TRUST CO LTD US,0,0.0,無法評級,"**[進階ETF分析] 00933B.TWO / CATHAY SECS INV TRUST CO LTD US**
+【技術面評級】平均分數 6.8 → 等級 B",4.775,45,C
+00933B.TWO,CATHAY SECS INV TRUST CO LTD US,0,0.0,無法評級,34,6.8,B,"**[基本面分析] 00933B.TWO / CATHAY SECS INV TRUST CO LTD US**
 - ETF_PE: 資料缺失
 - ETF_Yield: 資料缺失
 - totalAssets: 資料缺失
@@ -968,6 +1411,11 @@
 - threeYearAverageReturn: 資料缺失
 - fiveYearAverageReturn: 資料缺失
 
-【最終評級】資料不足，無法評級
+【基本面評級】指標不足，無法評級
+- RSI: 52.95（正常範圍） (score=7)
+- MACD: 正值（買入信號） (score=8)
+- SMA50 > SMA200（黃金交叉，趨勢向上） (score=9)
+- ADX: 16.90（趨勢弱） (score=5)
+- 成交量趨勢: 減少中（趨勢可能弱化） (score=5)
 
-【綜合建議】ETF 可作為分散投資的核心或衛星標的，建議定期定額並留意成分股調整。"
+【技術面評級】平均分數 6.8 → 等級 B",3.4,34,C
